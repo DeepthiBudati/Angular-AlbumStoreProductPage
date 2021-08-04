@@ -44,4 +44,4 @@ const appRoutes: Routes = [
   providers: [ProductService],
   bootstrap: [AppComponent],
 })
-export class AppModule {}
+export class AppModule { }
